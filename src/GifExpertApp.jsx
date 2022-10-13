@@ -10,8 +10,6 @@ export const GifExpertApp = () => {
         //setCategories( cat => [...cat, 'Valorant'] )
     };
 
-    console.log(categories);
-
     return (
         <>
             {/* Titulo */}
